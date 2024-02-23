@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pavan kumar  
 - 👀 I’m interested in creating new things 
-- 🌱 I’m currently learning fornt end web development
+- 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
